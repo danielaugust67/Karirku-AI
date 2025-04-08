@@ -2,6 +2,9 @@
 
 Karirku AI adalah aplikasi chatbot berbasis React yang dirancang untuk membantu pengguna dalam pengembangan karier, persiapan wawancara kerja, pembuatan CV, dan strategi mencari pekerjaan. Menggunakan teknologi Google Gemini AI, Karirku AI menghadirkan pengalaman interaktif layaknya ngobrol dengan Career Coach pribadi.
 
+![Demo](./assets/demo.gif)
+
+
 ---
 
 ## 🚀 Fitur Utama
@@ -31,5 +34,25 @@ Karirku AI adalah aplikasi chatbot berbasis React yang dirancang untuk membantu 
 
 1. **Clone repository ini**
 ```bash
-git clone https://github.com/username/karirku-ai.git
+git clone https://github.com/danielaugust67/karirku-ai.git
 cd karirku-ai
+```
+
+2. **Install dependencies**
+```bash
+npm i
+```
+
+3. **Siapkan API Key dari Google Gemini AI**
+
+- Daftar di Google AI Studio
+- Buat file .env atau ubah langsung di config.ts:
+```bash
+export const GEMINI_API_KEY = "YOUR_API_KEY_HERE";
+```
+
+4.**Jalankan aplikasi**
+```bash
+npm run dev
+
+```
