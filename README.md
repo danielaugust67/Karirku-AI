@@ -2,6 +2,9 @@
 
 Karirku AI adalah aplikasi chatbot berbasis React yang dirancang untuk membantu pengguna dalam pengembangan karier, persiapan wawancara kerja, pembuatan CV, dan strategi mencari pekerjaan. Menggunakan teknologi Google Gemini AI, Karirku AI menghadirkan pengalaman interaktif layaknya ngobrol dengan Career Coach pribadi.
 
+![Demo](./assets/demo.gif)
+
+
 ---
 
 ## 🚀 Fitur Utama
