@@ -1,4 +1,4 @@
-export const GEMINI_API_KEY = 'AIzaSyBiNwiiC0xFF6QfOZpST_izP8rQo704aTQ'; 
+export const GEMINI_API_KEY = 'YOUR_API_KEY'; 
 
 export const INITIAL_PROMPT = `
 Jawablah seperti ini:
